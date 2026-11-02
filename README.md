@@ -20,7 +20,7 @@ Gosto de construir aplicações com LLM que dá pra auditar: saída estruturada,
 
 ## Ferramentas
 
-**Linguagens e dados:** Python, SQL, pandas
-**ML e NLP:** scikit-learn, TF-IDF, classificação de texto
-**IA generativa:** OpenAI API, Structured Outputs, Pydantic
-**Apps e infra:** FastAPI, Streamlit, PostgreSQL, SQLite, Docker, GitHub Actions, n8n
+- **Linguagens e dados:** Python, SQL, pandas
+- **ML e NLP:** scikit-learn, TF-IDF, classificação de texto
+- **IA generativa:** OpenAI API, Structured Outputs, Pydantic
+- **Apps e infra:** FastAPI, Streamlit, PostgreSQL, SQLite, Docker, GitHub Actions, n8n
